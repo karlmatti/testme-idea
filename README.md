@@ -32,3 +32,4 @@ Please refer to [`CONTRIBUTING.md`](./CONTRIBUTING.md) file.
 
 ### License
 Copyright (c) 2017 - 2024 [WeirdDev](https://weirddev.com). Licensed for free usage under the terms and conditions of AGPLv3 - [GNU Affero General Public License v3](https://www.gnu.org/licenses/agpl-3.0.en.html).
+ takeover
